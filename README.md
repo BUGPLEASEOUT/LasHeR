@@ -2,7 +2,7 @@
 
 RGBT tracking receives a surge of interest in the computer vision community, but this research field lacks a large-scale and high diversity benchmark dataset, which is essential for both the training of deep RGBT trackers and the comprehensive evaluation of RGBT tracking methods. To this end, we present a Large-scale High-diversity benchmark for RGBT tracking (LasHeR) in this work.
 
-![] Pic for showing RGBT tracking pairs
+![image] (https://github.com/BUGPLEASEOUT/LasHeR/blob/main/figure0/LasHeR_paris.PNG)
 
 ## About LasHeR benchmark
 
