@@ -33,3 +33,6 @@ LasHeR is highly diverse capturing from a broad range of object categories, came
 ## Evaluation on LasHeR
 We evaluate 12 RGBT tracking algorithms on LasHeR to provide comprehensive platform of performance analysis. Deep RGBT trackers include MANet, DAPNet, MaCNet, DAFNet, FANet, MANet++ , DMCNet and mfDiMP. RGBT trackers based on handcrafted features include SGT, CMR and SGT++.
 ![](https://github.com/BUGPLEASEOUT/LasHeR/blob/main/figure0/evaluation.PNG)
+
+## Dataset
+* Download LasHeR from [here]()
