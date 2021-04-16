@@ -23,15 +23,15 @@ LasHeR is highly diverse capturing from a broad range of **object categories**, 
 ### Dataset file structure
  sequence   
   ├─infrared  
-  │      i000.jpg  
-  │      i001.jpg  
-  │      i002.jpg  
-  │
-  └─visible  
-  │     v000.jpg  
-  │     v001.jpg  
-  │     v002.jpg  
+  │────i000.jpg  
+  │────i001.jpg  
+  │────i002.jpg  
   │  
+  └─visible  
+  │────v000.jpg  
+  │────v001.jpg  
+  │────v002.jpg  
+  │    
   ├─infrared.txt  
   ├─init.txt  
   └─visible.txt   
