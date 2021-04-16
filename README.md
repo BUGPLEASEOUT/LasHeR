@@ -6,10 +6,10 @@ RGBT tracking receives a surge of interest in the computer vision community, but
 
 ## About LasHeR benchmark
 
-* **large-scale**
+* **Large-scale**
 * **Multi-platform imaging devices**
 * **Rich scenes and categories**
-* **real-world challenges**
+* **Real-world challenges**
 ![](https://github.com/BUGPLEASEOUT/LasHeR/blob/main/figure0/Comparison_Bub.PNG)
 
 LasHeR consists of 1224 visible and thermal infrared video pairs with more than 730K frame pairs in total. Each frame pair is spatially aligned and manually annotated with a bounding box, making the dataset well and densely annotated.
