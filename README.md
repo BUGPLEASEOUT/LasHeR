@@ -21,16 +21,20 @@ LasHeR is highly diverse capturing from a broad range of **object categories**, 
 ![](https://github.com/BUGPLEASEOUT/LasHeR/blob/main/figure0/Comparision_Tab.PNG)
 
 ### Dataset file structure
--sequence  
---visible  
----v000.jpg  
----v001.jpg   
---infrared  
----i000.jpg  
----i001.jpg   
---init.txt  
---visible.txt  
---infrared.txt  
+ sequence   
+  ├─infrared  
+  │      i000.jpg  
+  │      i001.jpg  
+  │      i002.jpg  
+  │
+  └─visible  
+  │     v000.jpg  
+  │     v001.jpg  
+  │     v002.jpg  
+  │  
+  ├─infrared.txt  
+  ├─init.txt  
+  └─visible.txt   
 
 ## Evaluation on LasHeR
 We evaluate 12 RGBT tracking algorithms on LasHeR to provide comprehensive platform of performance analysis. Deep RGBT trackers include MANet, DAPNet, MaCNet, DAFNet, FANet, MANet++ , DMCNet and mfDiMP. RGBT trackers based on handcrafted features include SGT, CMR and SGT++.
