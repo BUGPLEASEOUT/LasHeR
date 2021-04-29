@@ -66,8 +66,8 @@ We evaluate 12 **RGBT** tracking algorithms on the entire LasHeR to provide comp
 ![](https://github.com/BUGPLEASEOUT/LasHeR/blob/main/figure0/evaluation.PNG)
 
 ## Retrining experiment on LasHeR
-we split LasHeR into training and testing subsets according to the target class distribution. And we conduct the retraining experiment by retraining MANet and mfDiMP on training set to demonstrate how deep RGBT trackers can be improved using a largescale training set. 
-
+we split LasHeR into *training* and *testing* subsets according to the target class distribution. And we conduct the retraining experiment by retraining MANet and mfDiMP on *training* set to demonstrate how deep RGBT trackers can be improved using a large-scale training set. 
+![](https://github.com/BUGPLEASEOUT/LasHeR/blob/main/figure0/Retraining.PNG)
 
 
 ## Dataset
