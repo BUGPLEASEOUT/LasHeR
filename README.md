@@ -62,10 +62,13 @@ Attr | Description
   └─visible.txt   
 
 ## Evaluation on LasHeR
-We evaluate 12 **RGBT** tracking algorithms on LasHeR to provide comprehensive platform of performance analysis. Deep RGBT trackers include MANet, DAPNet, MaCNet, DAFNet, FANet, MANet++, DMCNet and mfDiMP. RGBT trackers based on handcrafted features include SGT, CMR and SGT++.
+We evaluate 12 **RGBT** tracking algorithms on the entire LasHeR to provide comprehensive platform of performance analysis. Deep RGBT trackers include MANet, DAPNet, MaCNet, DAFNet, FANet, MANet++, DMCNet and mfDiMP. RGBT trackers based on handcrafted features include SGT, CMR and SGT++.
 ![](https://github.com/BUGPLEASEOUT/LasHeR/blob/main/figure0/evaluation.PNG)
 
-## 
+## Retrining experiment on LasHeR
+we split LasHeR into training and testing subsets according to the target class distribution. And we conduct the retraining experiment by retraining MANet and mfDiMP on training set to demonstrate how deep RGBT trackers can be improved using a largescale training set. 
+
+
 
 ## Dataset
 * Download LasHeR from [here]() (Dataset is uploading......).
