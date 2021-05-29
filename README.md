@@ -1,5 +1,5 @@
 # A Large-scale High-diversity Benchmark for RGBT Tracking
-
+[arXiv paper](https://arxiv.org/pdf/2104.13202.pdf)
 ## Motivation
 
 RGBT tracking receives a surge of interest in the computer vision community, but this research field lacks a large-scale and high diversity benchmark dataset, which is essential for both the training of deep RGBT trackers and the comprehensive evaluation of RGBT tracking methods. To this end, we present a **La**rge-**s**cale **H**igh-diversity b**e**nchmark for **R**GBT tracking (**LasHeR**) in this work.
