@@ -1,0 +1,1 @@
+cat LasHeR.z01 LasHeR.z02 LasHeR.z03 LasHeR.z04 LasHeR.z05 LasHeR.z06 LasHeR.z07 LasHeR.z08 LasHeR.z09 LasHeR.z10 LasHeR.zip > lasher_all.zip && unzip lasher_all.zip
