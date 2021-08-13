@@ -72,4 +72,4 @@ we split LasHeR into *training* and *testing* subsets according to the target cl
 
 ## Dataset
 * Download LasHeR from [BaiduNetdisk](https://pan.baidu.com/s/1hZgK_OMHNp0fN20SJNNm9w) (code:mmic) or [TeraBox](https://dubox.com/s/11g22w2YXRCSnkdFicMj5yg) (code:33t8).
-* Toolkit for evaluation on LasHeR :[BaiduNetdisk](链接：https://pan.baidu.com/s/1LRIceZ62x5CHobpyZcGxEQ) (code:mmic).
+* Toolkit for evaluation on LasHeR :[BaiduNetdisk](https://pan.baidu.com/s/1LRIceZ62x5CHobpyZcGxEQ) (code:mmic).
