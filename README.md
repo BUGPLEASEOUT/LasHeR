@@ -18,7 +18,7 @@ LasHeR consists of **1224** visible and thermal infrared video pairs with **more
 LasHeR is highly diverse capturing from a broad range of **object categories**, **camera viewpoints**, **scene complexities** and **environmental factors** across seasons, weathers, day and night. Induced by real-world applications, several **new challenges** are take into consideration in data creation. 
 
 ### Comparison of LasHeR with public RGBT datasets
-![](https://github.com/BUGPLEASEOUT/LasHeR/blob/main/figure0/Comparision_Tab.PNG)
+![](https://github.com/BUGPLEASEOUT/LasHeR/blob/main/figure0/ComparisonTable.png)
 
 ### Attributes
     
