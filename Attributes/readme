@@ -3,4 +3,4 @@ Attributes&Order
   ---Sequence's name.txt
       1 for the attribute`s existence while 0 for not
 ---Attributes_order.txt
-      NO, PO, TO, HO, MB, LI, HI, ...
+      NO, PO, TO, HO, MB, LI, HI, AIV, LR, DEF, BC, SA, CM, TC, FL, OV, FM, SV, ARV
