@@ -1,1 +1,6 @@
-
+Attributes&Order
+---AttriSeqsTxt
+  ---Sequence's name.txt
+      1 for the attribute`s existence while 0 for not
+---Attributes_order.txt
+      NO, PO, TO, HO, MB, LI, HI, ...
